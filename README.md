@@ -8,7 +8,7 @@
 ### 👨‍💻 Hakkımda
 
 - 🛠️ Kullandığım Teknolojiler:
-  - **Frontend:** React, Next.js, Tailwind, SCSS
+  - **Frontend:** React, Next.js, Tailwind, Bootstrap, SCSS
   - **Backend:** Node.js, Express, NestJS, Python, Symfony, Laravel
   - **Veritabanı:** MySQL, MongoDB, PostgreSQL
   - **Diğer:** Docker, Git, WebSocket, Firebase, Redis
