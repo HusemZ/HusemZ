@@ -25,12 +25,12 @@
 ## 📊 Github İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HesapAdin&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HesapAdin&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HusemZ&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusemZ&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesapAdin&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusemZ&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
