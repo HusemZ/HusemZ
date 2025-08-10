@@ -48,10 +48,5 @@
 
 ---
 
-## 💡 İlginç Bilgiler
-
-- 🎮 Valorant oyuncusuyum, rekabetçiyim 💥  
-- 🧩 Kod yazarken lo-fi ya da video game müzikleri dinlemeyi severim  
-- 🎯 En sevdiğim yazılım prensibi: **"Karmaşık problemleri basit parçalara bölmek."**
 
 
