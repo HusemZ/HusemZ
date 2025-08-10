@@ -47,8 +47,8 @@
 
 ### 📫 Bana Ulaş
 
-- **NPM:** [npmjs.com/~ifuzzer](https://www.npmjs.com/~ifuzzer)
-- **LinkedIn:** [https://www.linkedin.com/in/hüsem-kulaksız-8b273217b](https://www.linkedin.com/in/hüsem-kulaksız-8b273217b)
+- **NPM:** [~ifuzzer](https://www.npmjs.com/~ifuzzer)
+- **LinkedIn:** [/in/hüsem-kulaksız](https://www.linkedin.com/in/hüsem-kulaksız-8b273217b)
 
 ---
 
