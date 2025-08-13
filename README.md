@@ -27,24 +27,6 @@
 
 ---
 
-### 📊 Github İstatistiklerim
-
-<p align="center">
-  <a href="https://github.com/HusemZ">
-    <img src="https://github-readme-stats.vercel.app/api?username=HusemZ&show_icons=true&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/HusemZ">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusemZ&theme=radical" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/HusemZ">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusemZ&layout=compact&theme=radical" width="48%" />
-  </a>
-</p>
-
----
-
 ### 📫 Bana Ulaş
 
 - **NPM:** [~ifuzzer](https://www.npmjs.com/~ifuzzer)
