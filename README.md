@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Selam, ben Hüsem 👋</h1>
-  <h3 align="center">Fullstack Web Geliştirici | Open Source Aşığı | Sürekli Öğrenen</h3>
+  <h3 align="center">Fullstack Web Geliştirici</h3>
 </div>
 
 ---
